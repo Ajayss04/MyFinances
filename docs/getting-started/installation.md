@@ -45,7 +45,7 @@ git clone [copied fork url]
     OR if you are running in a POSIX system such as: bash/zsh, fish, csh/tcsh, or PowerShell, the command to activate the virtual environment is:
 
     ```shell
-    ./venv/bin/activate
+    source ./venv/bin/activate
     ```
     More information [here](https://docs.python.org/3/library/venv.html)  
 
